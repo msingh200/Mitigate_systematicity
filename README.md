@@ -1,4 +1,4 @@
-# This is the repo to the technical assessment code.
+# This is the repo containing the technical assessment code.
 
 ## The powerpoint that I emailed contains the steps and explanation. I also explain the steps briefly in my code.
 
